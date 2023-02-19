@@ -57,3 +57,4 @@ tswift
 instantmusic
 html2text
 youtube-search-python
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
