@@ -1,5 +1,5 @@
 # We're using Debian Slim Buster image
-FROM python:3.12.0a4-slim-buster
+FROM python:3.12.0b1-slim-buster
 
 ENV PIP_NO_CACHE_DIR 1
 
