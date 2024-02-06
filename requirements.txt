@@ -57,3 +57,4 @@ tswift
 instantmusic
 html2text
 youtube-search-python
+fastapi>=0.109.1 # not directly required, pinned by Snyk to avoid a vulnerability
