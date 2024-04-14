@@ -57,3 +57,4 @@ tswift
 instantmusic
 html2text
 youtube-search-python
+yt-dlp>=2024.4.9 # not directly required, pinned by Snyk to avoid a vulnerability
