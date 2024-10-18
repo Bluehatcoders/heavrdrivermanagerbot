@@ -57,3 +57,4 @@ tswift
 instantmusic
 html2text
 youtube-search-python
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
